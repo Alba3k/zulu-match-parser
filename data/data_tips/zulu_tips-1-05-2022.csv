@@ -1,0 +1,75 @@
+date_match,ligue_name,home_team,away_team,chance_home,chance_draw,chance_away,tips,home_odds,draw_odds,away_odds,final_result,goal_result_home,goal_result_away,value_home,value_draw,value_away
+30-04 23:00,argentina primera b nacional,gimnasia jujuy,ca guemes,25.0,27.0,48.0,X2,2.44,2.8,3.0,0:2,0,2,0.61,0.756,23.04
+30-04 23:00,argentina copa de la liga profesional,arsenal de sarandi,colon de santa fe,38.0,23.0,39.0,12,2.75,3.0,2.4,2:0,2,0,1.045,0.69,15.21
+30-04 23:00,argentina copa de la liga profesional,boca juniors,barracas central,45.0,18.0,37.0,12,1.32,4.5,7.8,2:0,2,0,0.594,0.81,13.69
+30-04 23:00,brazil brasileiro serie a,cuiaba esporte clube mt,ac goianiense go,36.0,34.0,30.0,none,2.18,2.95,3.55,1:1,1,1,0.7848,1.003,9.0
+30-04 23:00,brazil brasileiro serie b,chapecoense sc,cruzeiro ec mg,51.0,24.0,25.0,12,3.0,2.95,2.38,0:2,0,2,1.53,0.708,6.25
+30-04 23:00,"mexico primera division, clausura",queretaro fc,juarez fc,35.0,36.0,30.0,1X,1.79,3.2,4.7,4:0,4,0,0.6265,1.152,9.0
+30-04 23:30,argentina primera b nacional,ca alvarado,ca atlanta,41.0,33.0,26.0,1X,2.95,3.0,2.35,3:1,3,1,1.2095,0.99,6.76
+30-04 23:30,ecuador serie a,9 de octubre fc,delfin sc,39.0,27.0,35.0,12,2.42,3.05,2.8,0:1,0,1,0.9438,0.8235,12.25
+01-05 00:30,brazil brasileiro serie b,aa ponte preta sp,brusque fc sc,29.0,20.0,51.0,12,2.09,3.05,3.55,2:0,2,0,0.6061,0.61,26.01
+01-05 00:30,usa major league soccer,orlando city sc,charlotte fc,36.0,17.0,47.0,12,1.71,3.55,4.7,2:1,2,1,0.6156,0.6035,22.09
+01-05 00:30,usa major league soccer,columbus crew,dc united,38.0,17.0,45.0,12,1.63,3.7,5.2,3:0,3,0,0.6194,0.629,20.25
+01-05 00:30,usa major league soccer,new england revolution,inter miami cf,42.0,14.0,45.0,12,1.47,4.5,5.6,2:0,2,0,0.6174,0.63,20.25
+01-05 00:30,venezuela primera division,cd hermanos colmenarez,carabobo fc,29.0,20.0,51.0,12,2.07,2.95,3.25,2:3,2,3,0.6003,0.59,26.01
+01-05 00:45,"paraguay primera division, apertura",cerro porteno,nacional asuncion,39.0,17.0,43.0,12,1.68,3.5,4.6,1:0,1,0,0.6552,0.595,18.49
+01-05 01:00,"mexico primera division, clausura",atlas fc,tigres uanl,47.0,35.0,18.0,1X,2.16,3.05,3.45,1:1,1,1,1.0152,1.0675,3.24
+01-05 01:06,"mexico primera division, clausura",cf monterrey,club tijuana de caliente,41.0,31.0,28.0,1X,1.5,4.1,5.8,2:0,2,0,0.615,1.271,7.84
+01-05 01:30,argentina copa de la liga profesional,ca sarmiento,ca river plate (arg),35.0,24.0,41.0,12,5.6,3.95,1.48,0:7,0,7,1.96,0.948,16.81
+01-05 01:30,argentina copa de la liga profesional,atletico lanus,ca independiente,39.0,23.0,38.0,12,2.6,2.95,2.55,1:0,1,0,1.014,0.6785,14.44
+01-05 01:30,usa major league soccer,sporting kansas city,fc dallas,27.0,19.0,53.0,12,2.24,3.15,3.2,2:2,2,2,0.6048,0.5985,28.09
+01-05 02:00,usa major league soccer,colorado rapids,portland timbers,39.0,17.0,44.0,12,1.75,3.55,4.4,2:0,2,0,0.6825,0.6035,19.36
+01-05 03:00,"mexico primera division, clausura",cf america,cruz azul,64.0,19.0,18.0,1,1.79,3.35,4.4,0:0,0,0,1.1456,0.6365,3.24
+01-05 03:30,"australia tasmania super league, women",kingborough lions,launceston united,31.0,7.0,62.0,2,10.0,8.0,1.1,0:5,0,5,3.1,0.56,38.44
+01-05 08:30,taiwan premier league,tainan city,hang yuen,49.0,13.0,39.0,12,1.2,4.75,11.0,3:1,3,1,0.588,0.6175,15.21
+01-05 10:00,andorra primera divisio,fc ordino,ce carroi,53.0,10.0,37.0,12,1.11,6.0,15.0,2:2,2,2,0.5883,0.6,13.69
+01-05 11:00,portugal segunda liga,ud vilafranquense,benfica lisbon b,45.0,30.0,25.0,1X,2.7,3.2,2.43,1:2,1,2,1.215,0.96,6.25
+01-05 11:30,italy serie a,juventus turin,venezia fc,52.0,10.0,38.0,12,1.21,6.4,13.0,2:1,2,1,0.6292,0.64,14.44
+01-05 12:00,france ligue 1,es troyes ac,lille osc,34.0,20.0,46.0,12,3.6,3.2,2.14,3:0,3,0,1.224,0.64,21.16
+01-05 12:00,russia premier league,spartak moskau,pfk krylja sowetow samara,67.0,18.0,15.0,1,1.85,3.45,4.0,2:1,2,1,1.2395,0.621,2.25
+01-05 12:00,scotland premiership,celtic glasgow,glasgow rangers,45.0,28.0,26.0,1X,1.81,3.55,4.1,1:1,1,1,0.8145,0.994,6.76
+01-05 12:00,spain tercera division,cd union sur yaiza,cd tenerife b,48.0,20.0,32.0,12,4.0,3.0,1.84,4:0,4,0,1.92,0.6,10.24
+01-05 12:30,belgium pro league,royal antwerp fc,union saint-gilloise,17.0,17.0,65.0,2,3.5,3.5,1.97,0:0,0,0,0.595,0.595,42.25
+01-05 12:30,estonia premium liiga,paide linnameeskond,jk tallinna kalev,57.0,7.0,37.0,1,1.06,9.0,19.0,7:0,7,0,0.6042,0.63,13.69
+01-05 12:30,india i-league,kenkre fc,real kashmir fc,47.0,19.0,34.0,12,4.3,3.2,1.74,1:0,1,0,2.021,0.608,11.56
+01-05 13:00,denmark superligaen,odense boldklub,agf aarhus,40.0,35.0,26.0,1X,1.98,3.35,3.6,1:0,1,0,0.792,1.1725,6.76
+01-05 13:00,spain primera division,elche cf,osasuna,32.0,40.0,27.0,1X,2.75,3.0,2.8,1:1,1,1,0.88,1.2,7.29
+01-05 13:00,spain segunda division,amorebieta,fuenlabrada,57.0,28.0,15.0,1,1.93,3.25,4.0,2:1,2,1,1.1001,0.91,2.25
+01-05 13:15,switzerland super league,fc sion,young boys bern,21.0,21.0,59.0,2,4.5,4.5,1.6,1:2,1,2,0.945,0.945,34.81
+01-05 13:30,hungary nb i,zalaegerszeg te,mtk budapest,40.0,30.0,29.0,1X,2.04,3.1,3.25,2:3,2,3,0.816,0.93,8.41
+01-05 14:00,england premier league,tottenham hotspur,leicester city,65.0,19.0,16.0,1,1.41,5.0,7.0,3:1,3,1,0.9165,0.95,2.56
+01-05 14:00,england premier league,everton,chelsea,33.0,19.0,48.0,12,4.8,3.75,1.74,1:0,1,0,1.584,0.7125,23.04
+01-05 14:00,france ligue 1,stade brest,clermont foot,37.0,29.0,34.0,none,2.29,3.25,3.15,2:0,2,0,0.8473,0.9425,11.56
+01-05 14:00,france ligue 1,as monaco,angers sco,57.0,24.0,19.0,1,1.36,5.0,7.6,2:0,2,0,0.7752,1.2,3.61
+01-05 14:00,france ligue 1,fc lorient,stade de reims,29.0,53.0,18.0,1X,2.19,3.15,3.5,1:2,1,2,0.6351,1.6695,3.24
+01-05 14:00,france ligue 1,montpellier hsc,fc metz,36.0,28.0,36.0,12,1.75,3.8,4.4,2:2,2,2,0.63,1.064,12.96
+01-05 14:00,italy serie a,ac milan,fiorentina,41.0,36.0,23.0,1X,1.64,3.95,5.0,1:0,1,0,0.6724,1.422,5.29
+01-05 14:00,italy serie a,empoli fc,torino fc,23.0,53.0,25.0,X2,2.8,3.3,2.5,1:3,1,3,0.644,1.749,6.25
+01-05 14:00,portugal segunda liga,rio ave fc,casa pia ac,33.0,27.0,40.0,12,2.32,3.0,3.1,1:0,1,0,0.7656,0.81,16.0
+01-05 14:00,turkey tff 1. lig,menemen belediyespor,tuzlaspor,23.0,19.0,58.0,2,2.65,3.1,2.44,1:1,1,1,0.6095,0.589,33.64
+01-05 14:00,germany amateur oberliga mittelrhein,1. fc düren,hennef 05,67.0,16.0,17.0,1,1.76,3.75,3.35,5:1,5,1,1.1792,0.6,2.89
+01-05 15:00,spain segunda division,alcorcon,girona,23.0,26.0,51.0,X2,4.2,3.45,1.82,0:1,0,1,0.966,0.897,26.01
+01-05 15:00,spain segunda division,sporting gijon,ibiza,47.0,28.0,26.0,1X,2.06,3.15,3.6,0:1,0,1,0.9682,0.882,6.76
+01-05 15:00,czech republic 1st liga,fk jablonec,mfk karvina,75.0,15.0,10.0,1,1.49,4.2,6.0,2:0,2,0,1.1175,0.63,1.0
+01-05 15:15,spain primera division,granada,rc celta de vigo,39.0,31.0,30.0,none,2.85,3.1,2.6,1:1,1,1,1.1115,0.961,9.0
+01-05 15:30,switzerland super league,fc basel,fc zürich,32.0,40.0,29.0,1X,2.33,3.65,2.7,0:2,0,2,0.7456,1.46,8.41
+01-05 16:05,france ligue 1,girondins bordeaux,ogc nice,40.0,17.0,42.0,12,3.55,3.6,2.0,0:1,0,1,1.42,0.612,17.64
+01-05 16:30,england premier league,west ham united,arsenal,34.0,23.0,43.0,12,4.5,3.85,1.76,1:2,1,2,1.53,0.8855,18.49
+01-05 16:30,poland ekstraklasa,mks cracovia krakow,wisla krakow,33.0,36.0,32.0,none,2.55,3.25,2.7,0:0,0,0,0.8415,1.17,10.24
+01-05 17:00,bulgaria parva liga,pfc slavia sofia,cherno more varna,26.0,30.0,44.0,X2,3.7,2.95,2.09,1:1,1,1,0.962,0.885,19.36
+01-05 17:00,denmark superligaen,fc midtjylland,fc copenhagen,32.0,44.0,24.0,1X,2.6,3.3,2.55,0:0,0,0,0.832,1.452,5.76
+01-05 17:00,greece super league,panathinaikos,aris thessaloniki,31.0,46.0,23.0,1X,2.0,2.9,4.1,1:0,1,0,0.62,1.334,5.29
+01-05 17:00,italy serie a,udinese calcio,inter mailand,15.0,27.0,59.0,2,5.8,4.6,1.5,1:2,1,2,0.87,1.242,34.81
+01-05 17:30,spain primera division,rayo vallecano,real sociedad,24.0,42.0,34.0,X2,3.4,3.1,2.25,1:1,1,1,0.816,1.302,11.56
+01-05 18:15,israel premier league,maccabi netanya fc,hapoel be`er sheva fc,48.0,26.0,25.0,1X,2.95,2.95,2.37,3:0,3,0,1.416,0.767,6.25
+01-05 18:30,turkey super lig,galatasaray istanbul,sivasspor,49.0,26.0,24.0,1X,1.88,3.45,3.9,2:3,2,3,0.9212,0.897,5.76
+01-05 19:00,greece super league,paok saloniki,aek athen,27.0,37.0,35.0,X2,2.21,3.0,3.25,1:1,1,1,0.5967,1.11,12.25
+01-05 19:00,slovakia superliga,sk slovan bratislava,fc spartak trnava,65.0,19.0,16.0,1,1.92,3.3,3.8,1:0,1,0,1.248,0.627,2.56
+01-05 19:00,netherlands eredivisie,rkc waalwijk,fc groningen,34.0,42.0,24.0,1X,2.75,3.1,2.55,3:1,3,1,0.935,1.302,5.76
+01-05 19:30,romania liga i,cfr cluj,fc farul constanta,71.0,15.0,14.0,1,1.39,3.95,8.0,1:0,1,0,0.9869,0.5925,1.96
+01-05 19:45,france ligue 1,olympique marseille,olympique lyon,44.0,18.0,38.0,12,2.3,3.5,2.95,0:3,0,3,1.012,0.63,14.44
+01-05 19:45,italy serie a,as roma,bologna,43.0,19.0,39.0,12,1.48,4.6,6.0,0:0,0,0,0.6364,0.874,15.21
+01-05 20:00,spain primera division,fc barcelona,rcd mallorca,56.0,20.0,24.0,1,1.3,5.6,8.8,2:1,2,1,0.728,1.12,5.76
+01-05 20:15,iceland urvalsdeild,breidablik kopavogur,fh hafnarfjordur,57.0,15.0,28.0,1,1.64,3.9,4.0,3:0,3,0,0.9348,0.585,7.84
+01-05 20:30,egypt premier league,eastern company sc,zamalek sc,17.0,13.0,70.0,2,9.6,4.5,1.28,1:2,1,2,1.632,0.585,49.0
+01-05 22:00,brazil copa do brasil,aa altos pi,cr flamengo/rj,37.0,9.0,53.0,12,15.0,6.4,1.12,1:2,1,2,5.55,0.576,28.09

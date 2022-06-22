@@ -1,0 +1,68 @@
+date_match,ligue_name,home_team,away_team,chance_home,chance_draw,chance_away,tips,home_odds,draw_odds,away_odds,final_result,goal_result_home,goal_result_away,value_home,value_draw,value_away
+01-01 06:05,australia westfield w-league,adelaide united fc,perth glory fc,45.0,26.0,29.0,12,2.85,3.75,2.03,4:2,4,2,1.2825,0.975,8.41
+01-01 07:00,israel u19 premier division 1,hapoel gerusalemme,hapoel petah tikva,45.0,12.0,43.0,12,1.32,4.9,5.8,5:0,5,0,0.594,0.588,18.49
+01-01 07:00,hong kong sapling cup,hong kong u23,eastern long lions,17.0,9.0,74.0,2,7.0,6.5,1.2,0:3,0,3,1.19,0.585,54.76
+01-01 07:15,nepal 1st division,three star club,jawalakhel yc,27.0,28.0,45.0,X2,2.2,3.0,2.9,2:1,2,1,0.594,0.84,20.25
+01-01 07:30,china chinese super league,guangzhou evergrande,fc changchun yatai,49.0,18.0,33.0,12,2.09,3.45,3.25,2:0,2,0,1.0241,0.621,10.89
+01-01 07:30,china chinese super league,shandong taishan fc,shanghai port fc,43.0,19.0,39.0,12,2.39,3.25,2.8,2:2,2,2,1.0277,0.6175,15.21
+01-01 08:15,nepal 1st division,manang marshyangdi,brigade boys fc,76.0,11.0,13.0,1,1.2,5.5,8.5,1:0,1,0,0.912,0.605,1.69
+01-01 08:45,australia a-league,adelaide united fc,wellington phoenix fc,39.0,25.0,36.0,12,1.98,3.6,3.35,4:0,4,0,0.7722,0.9,12.96
+01-01 08:45,israel u19 premier division 1,maccabi petach tikva,hapoel beer sheva,42.0,19.0,39.0,12,1.4,4.8,4.8,1:2,1,2,0.588,0.912,15.21
+01-01 09:00,israel u19 premier division 1,hapoel kfar saba,maccabi tel aviv,14.0,27.0,58.0,2,7.25,5.4,1.24,0:0,0,0,1.015,1.458,33.64
+01-01 09:30,hong kong sapling cup,lee man fc,hong kong fc,62.0,20.0,19.0,1,1.16,7.0,7.5,5:0,5,0,0.7192,1.4,3.61
+01-01 10:00,israel u19 premier division 1,hapoel tel aviv,ironi nesher,53.0,7.0,39.0,12,1.1,7.75,10.5,2:0,2,0,0.583,0.5425,15.21
+01-01 10:30,iran azadegan league,fc pars jonoubi jam,arman gohar sirjan,29.0,40.0,31.0,X2,3.25,2.49,2.28,1:0,1,0,0.9425,0.996,9.61
+01-01 10:30,iran azadegan league,shams azar qazvin,esteghlal mollasani,46.0,22.0,32.0,12,1.78,2.65,4.7,1:1,1,1,0.8188,0.583,10.24
+01-01 10:30,iran azadegan league,kheybar khorramabad fc,machine sazi tabriz,53.0,21.0,26.0,12,1.16,4.8,13.0,3:2,3,2,0.6148,1.008,6.76
+01-01 10:30,iran azadegan league,esteghlal khuzestan fc,shahrdari hamadan,39.0,21.0,40.0,12,1.87,2.75,3.95,1:0,1,0,0.7293,0.5775,16.0
+01-01 10:45,iraqi league,al sinaah,zakho,28.0,28.0,43.0,X2,2.7,2.7,2.5,1:1,1,1,0.756,0.756,18.49
+01-01 11:00,"hong kong premier league, women",chelsea ss hk,mlfa,63.0,18.0,19.0,1,1.03,10.0,16.0,6:0,6,0,0.6489,1.8,3.61
+01-01 11:00,nepal 1st division,sankata fc,chyasal youth club,43.0,28.0,29.0,12,1.35,4.1,6.75,0:0,0,0,0.5805,1.148,8.41
+01-01 11:30,china chinese super league,hebei fc,shenzhen fc,19.0,16.0,66.0,2,6.4,4.5,1.42,0:1,0,1,1.216,0.72,43.56
+01-01 11:30,china chinese super league,beijing guoan fc,guangzhou r&f fc,51.0,23.0,26.0,12,1.99,3.25,3.7,1:1,1,1,1.0149,0.7475,6.76
+01-01 12:00,iraqi league,al talaba,newroz fc,38.0,31.0,31.0,none,1.55,3.3,5.5,1:0,1,0,0.589,1.023,9.61
+01-01 12:00,israel u19 premier division 1,ihud bnei baqa,beitar tubruk,35.0,10.0,56.0,2,7.5,6.0,1.2,0:1,0,1,2.625,0.6,31.36
+01-01 12:00,israel u19 premier division 1,sektzia nes tziona,hapoel hadera,30.0,32.0,39.0,none,4.1,3.55,1.65,1:1,1,1,1.23,1.136,15.21
+01-01 12:15,israel u19 premier division 1,hapoel ironi kiryat shmona,maccabi haifa shmuel,42.0,15.0,43.0,12,3.55,3.8,1.7,1:1,1,1,1.491,0.57,18.49
+01-01 12:25,saudi arabia saudi professional league,al taawoun fc,damac fc,42.0,22.0,35.0,12,1.92,3.6,3.3,3:0,3,0,0.8064,0.792,12.25
+01-01 12:30,international aff suzuki cup,thailand,indonesia,44.0,36.0,20.0,1X,1.36,4.3,7.0,2:2,2,2,0.5984,1.548,4.0
+01-01 12:30,egypt 2. division,al aluminium,aswan fc,39.0,26.0,35.0,12,2.3,3.0,2.7,1:3,1,3,0.897,0.78,12.25
+01-01 12:30,egypt 2. division,el alameen,telephonaat bani suweif,34.0,32.0,33.0,none,2.05,2.8,3.5,1:0,1,0,0.697,0.896,10.89
+01-01 12:30,england premier league,arsenal,manchester city,38.0,18.0,44.0,12,4.9,4.3,1.6,1:2,1,2,1.862,0.774,19.36
+01-01 12:30,israel u19 premier division 1,fc kafr qasim,maccabi herzliya,47.0,14.0,39.0,12,4.4,4.2,1.5,3:2,3,2,2.068,0.588,15.21
+01-01 12:50,united arab emirates division 1,al-taawon,hatta sc,30.0,26.0,44.0,12,4.6,4.0,1.56,2:2,2,2,1.38,1.04,19.36
+01-01 12:55,united arab emirates division 1,al-hamriyah,al-arabi (uae),32.0,35.0,32.0,none,2.48,3.25,2.5,1:2,1,2,0.7936,1.1375,10.24
+01-01 12:55,united arab emirates u19 league,al ahli dubai,al dhafra,47.0,28.0,25.0,1X,1.25,5.2,7.2,6:2,6,2,0.5875,1.456,6.25
+01-01 13:00,israel premier league,hapoel tel aviv fc,maccabi petah tikva fc,53.0,20.0,27.0,12,2.47,3.0,2.8,2:1,2,1,1.3091,0.6,7.29
+01-01 13:00,"hong kong premier league, women",citizen aa,tai po,47.0,11.0,43.0,12,1.27,5.4,6.25,1:1,1,1,0.5969,0.594,18.49
+01-01 14:40,saudi arabia saudi professional league,al fateh,al nassr fc,19.0,13.0,68.0,2,15.0,6.6,1.13,0:1,0,1,2.85,0.858,46.24
+01-01 15:00,england premier league,watford,tottenham hotspur,17.0,15.0,68.0,2,5.2,4.2,1.59,0:1,0,1,0.884,0.63,46.24
+01-01 15:00,england championship,fc blackpool,hull city,37.0,30.0,33.0,none,2.55,3.0,2.9,1:0,1,0,0.9435,0.9,10.89
+01-01 15:00,england league one,charlton athletic,wycombe wanderers,42.0,29.0,30.0,12,2.23,3.25,3.1,0:1,0,1,0.9366,0.9425,9.0
+01-01 15:00,england league one,oxford united,cheltenham town,69.0,15.0,17.0,1,1.5,4.3,5.6,1:1,1,1,1.035,0.645,2.89
+01-01 15:00,england league one,milton keynes dons,fc gillingham,75.0,15.0,9.0,1,1.46,4.2,6.4,0:0,0,0,1.095,0.63,0.81
+01-01 15:00,england league one,rotherham united,bolton wanderers,51.0,13.0,35.0,12,1.41,4.6,6.4,2:1,2,1,0.7191,0.598,12.25
+01-01 15:00,england league one,burton albion,fc crewe alexandra,62.0,17.0,21.0,1,1.65,3.75,4.8,4:1,4,1,1.023,0.6375,4.41
+01-01 15:00,england league two,fc walsall,newport county afc,37.0,29.0,33.0,none,2.65,3.0,2.7,3:3,3,3,0.9805,0.87,10.89
+01-01 15:00,england league two,sutton united fc,exeter city,39.0,37.0,24.0,1X,2.7,3.05,2.6,2:1,2,1,1.053,1.1285,5.76
+01-01 15:00,england league two,scunthorpe united,carlisle united,47.0,25.0,28.0,12,2.8,3.0,2.55,0:1,0,1,1.316,0.75,7.84
+01-01 15:00,england league two,forest green rovers,stevenage fc,74.0,15.0,11.0,1,1.52,4.1,5.6,2:0,2,0,1.1248,0.615,1.21
+01-01 15:00,england league two,swindon town,northampton town,41.0,27.0,32.0,12,2.43,3.1,2.9,5:2,5,2,0.9963,0.837,10.24
+01-01 15:00,england league two,barrow afc,bradford city,23.0,43.0,34.0,X2,2.65,2.95,2.75,1:2,1,2,0.6095,1.2685,11.56
+01-01 15:00,england league two,crawley town,colchester united,53.0,19.0,28.0,12,2.04,3.25,3.6,3:1,3,1,1.0812,0.6175,7.84
+01-01 15:00,northern ireland premiership,dungannon swifts fc,linfield fc,17.0,21.0,61.0,2,9.8,6.0,1.21,1:6,1,6,1.666,1.26,37.21
+01-01 15:00,northern ireland premiership,crusaders fc,carrick rangers fc,45.0,36.0,20.0,1X,1.37,4.7,7.0,0:0,0,0,0.6165,1.692,4.0
+01-01 15:00,northern ireland premiership,ballymena united fc,fc portadown,60.0,15.0,24.0,1,1.62,3.95,4.6,4:0,4,0,0.972,0.5925,5.76
+01-01 15:00,northern ireland premiership,glenavon fc,cliftonville fc,39.0,26.0,34.0,none,2.75,3.35,2.36,0:2,0,2,1.0725,0.871,11.56
+01-01 15:00,palestine west bank league,jabal el mokaber,sh. al dhahiriya,65.0,18.0,17.0,1,1.87,3.25,3.45,6:3,6,3,1.2155,0.585,2.89
+01-01 15:00,england national league,chesterfield fc,kings lynn fc,83.0,11.0,5.0,1,1.22,5.6,11.0,1:0,1,0,1.0126,0.616,0.25
+01-01 15:30,israel premier league,hapoel ironi kiryat shmona fc,hapoel haifa fc,32.0,35.0,33.0,none,2.9,2.85,2.48,2:2,2,2,0.928,0.9975,10.89
+01-01 16:00,israel premier league,hapoel jerusalem fc,hapoel hadera fc,41.0,28.0,31.0,12,2.9,2.85,2.48,1:1,1,1,1.189,0.798,9.61
+01-01 16:00,tanzania premier league,simba sc,azam fc,68.0,18.0,14.0,1,1.56,3.3,5.4,2:1,2,1,1.0608,0.594,1.96
+01-01 16:50,saudi arabia saudi professional league,al ahli saudi fc,al shabab fc (ksa),31.0,31.0,39.0,none,3.55,3.5,1.88,3:4,3,4,1.1005,1.085,15.21
+01-01 17:00,qatar u23 league,al-arabi doha,umm salal,59.0,17.0,25.0,1,2.35,3.55,2.35,0:3,0,3,1.3865,0.6035,6.25
+01-01 17:30,england premier league,crystal palace,west ham united,28.0,35.0,37.0,X2,2.95,3.25,2.4,2:3,2,3,0.826,1.1375,13.69
+01-01 17:30,northern ireland premiership,fc glentoran,larne fc,56.0,20.0,24.0,1,2.25,3.25,2.95,2:3,2,3,1.26,0.65,5.76
+01-01 17:50,israel premier league,maccabi netanya fc,beitar jerusalem fc,39.0,41.0,20.0,1X,2.28,3.0,3.05,0:0,0,0,0.8892,1.23,4.0
+01-01 18:45,israel u19 premier division 1,ms ironi ashdod,maccabi amidar ramat gan,36.0,30.0,35.0,12,3.45,3.9,1.7,0:1,0,1,1.242,1.17,12.25
+01-01 19:00,israel liga bet south,sporting club tel aviv,ironi beit dagan,56.0,21.0,23.0,1,2.15,3.55,2.6,1:4,1,4,1.204,0.7455,5.29

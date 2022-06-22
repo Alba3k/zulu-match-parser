@@ -1,0 +1,106 @@
+date_match,ligue_name,home_team,away_team,chance_home,chance_draw,chance_away,tips,home_odds,draw_odds,away_odds,final_result,goal_result_home,goal_result_away,value_home,value_draw,value_away
+31-03 23:00,chile primera division,colo colo,deportes union la calera,70.0,15.0,15.0,1,1.4,4.2,7.2,4:0,4,0,0.98,0.63,2.25
+31-03 23:00,israel ligat al women,hapoel marmorek rehovot,hapoel nir ramat hasharon,19.0,16.0,66.0,2,3.2,3.75,1.81,0:2,0,2,0.608,0.6,43.56
+31-03 23:00,"mexico liga mx, women",club necaxa,atletico san luis,49.0,25.0,26.0,12,1.91,3.25,3.15,1:2,1,2,0.9359,0.8125,6.76
+01-04 00:00,"brazil paulista, serie a1",botafogo fc sp,ituano fc sp,37.0,33.0,30.0,none,2.43,2.85,2.85,0:3,0,3,0.8991,0.9405,9.0
+01-04 00:00,colombia copa colombia,once caldas s. a.,deportes quindio,44.0,34.0,22.0,1X,1.56,3.5,5.6,0:0,0,0,0.6864,1.19,4.84
+01-04 00:15,brazil campeonato paraibano,sao paulo crystal fc pb,botafogo fc pb,29.0,32.0,39.0,none,4.8,2.8,1.77,0:3,0,3,1.392,0.896,15.21
+01-04 00:30,brazil campeonato sergipano,ad confianca se,falcon se,36.0,18.0,46.0,12,1.63,3.25,4.7,1:1,1,1,0.5868,0.585,21.16
+01-04 00:30,venezuela primera division,academia puerto cabello,caracas fc,34.0,35.0,30.0,none,3.35,3.1,1.95,0:0,0,0,1.139,1.085,9.0
+01-04 01:00,"mexico liga de expansion mx, clausura",tepatitlan fc,atletico morelia,36.0,38.0,26.0,1X,2.55,2.8,2.65,2:1,2,1,0.918,1.064,6.76
+01-04 01:00,"costa rica primera division, campeonato verano",cs herediano,perez zeledon,56.0,30.0,15.0,1,1.84,3.1,4.1,3:2,3,2,1.0304,0.93,2.25
+01-04 01:00,ecuador serie b,cd independiente juniors,chacaritas fc,44.0,31.0,26.0,1X,2.4,2.8,2.8,1:0,1,0,1.056,0.868,6.76
+01-04 01:30,argentina copa de la liga profesional,colon de santa fe,ca aldosivi,47.0,33.0,20.0,1X,1.55,3.6,5.4,1:3,1,3,0.7285,1.188,4.0
+01-04 01:30,ecuador serie b,libertad,imbabura sporting club,55.0,27.0,17.0,1,2.01,2.95,3.45,3:5,3,5,1.1055,0.7965,2.89
+01-04 01:35,brazil copa do nordeste,sc recife pe,fortaleza ec ce,24.0,37.0,39.0,X2,3.25,2.9,2.09,1:1,1,1,0.78,1.073,15.21
+01-04 02:00,"costa rica primera division, campeonato verano",sporting fc,ad san carlos,42.0,35.0,24.0,1X,1.81,3.4,3.8,4:0,4,0,0.7602,1.19,5.76
+01-04 02:00,colombia copa colombia,ad pasto,independiente santa fe,21.0,40.0,38.0,X2,2.8,2.8,2.5,0:1,0,1,0.588,1.12,14.44
+01-04 03:30,"costa rica primera division, campeonato verano",cs cartagines,adr jicaral,46.0,21.0,32.0,12,1.62,3.6,4.6,0:0,0,0,0.7452,0.756,10.24
+01-04 08:15,australia u21 victoria npl1,bentleigh greens,green gully,38.0,19.0,43.0,12,1.55,4.2,4.0,2:0,2,0,0.589,0.798,18.49
+01-04 09:15,"australia npl, new south wales",apia leichhardt,wollongong wolves fc,45.0,26.0,30.0,12,2.16,3.35,2.85,2:0,2,0,0.972,0.871,9.0
+01-04 09:30,australia victoria premier league,dandenong city,oakleigh cannons,37.0,15.0,48.0,12,4.5,3.95,1.6,0:4,0,4,1.665,0.5925,23.04
+01-04 09:30,australia victoria premier league,melbourne knights,hume city,35.0,33.0,32.0,none,2.16,3.4,2.95,3:0,3,0,0.756,1.122,10.24
+01-04 09:30,australia u-23 npl queensland,logan lightning,gold coast united,47.0,14.0,40.0,12,1.65,4.3,3.4,2:2,2,2,0.7755,0.602,16.0
+01-04 09:45,"australia npl, tasmania",launceston city fc,riverside olympic fc,52.0,13.0,35.0,12,1.15,7.2,9.8,4:0,4,0,0.598,0.936,12.25
+01-04 09:45,"australia npl, south australia, women",adelaide city,west torrens birkalla,60.0,10.0,29.0,1,1.06,9.4,17.0,4:1,4,1,0.636,0.94,8.41
+01-04 09:45,"australia atc premier league, women",tuggeranong united,belconnen united,23.0,6.0,71.0,2,20.0,10.0,1.02,1:5,1,5,4.6,0.6,50.41
+01-04 10:00,"australia npl, south australia",north eastern metrostars sc,adelaide comets fc,35.0,38.0,27.0,1X,2.75,3.3,2.27,1:1,1,1,0.9625,1.254,7.29
+01-04 10:30,australia victoria premier league,bentleigh greens,green gully cavaliers,40.0,25.0,35.0,12,1.9,3.65,3.35,3:0,3,0,0.76,0.9125,12.25
+01-04 10:30,india i-league,sreenidi deccan fc,kenkre fc,53.0,29.0,18.0,1X,1.23,4.8,11.0,2:1,2,1,0.6519,1.392,3.24
+01-04 10:45,"australia npl, south australia",croydon kings fc,west torrens birkalla,46.0,15.0,38.0,12,1.65,3.9,4.0,0:0,0,0,0.759,0.585,14.44
+01-04 10:45,"australia npl, south australia, women",modbury vista,west adelaide,38.0,7.0,55.0,2,13.0,8.0,1.1,0:9,0,9,4.94,0.56,30.25
+01-04 11:00,japan j-league,avispa fukuoka,sagan tosu,39.0,39.0,21.0,1X,2.7,2.7,2.9,0:0,0,0,1.053,1.053,4.41
+01-04 11:15,australia queensland premier league,albany creek,virginia united,66.0,9.0,26.0,1,1.12,7.0,10.0,5:2,5,2,0.7392,0.63,6.76
+01-04 11:30,"australia npl, queensland",logan lightning,gold coast united fc,17.0,23.0,60.0,2,3.45,3.8,1.8,1:0,1,0,0.5865,0.874,36.0
+01-04 12:30,"australia npl, western australia",perth glory fc,floreat athena,30.0,24.0,46.0,12,2.55,3.5,2.34,1:3,1,3,0.765,0.84,21.16
+01-04 12:30,"australia wa premier league, women",murdoch university melville fc,subiaco afc,71.0,8.0,20.0,1,1.05,12.0,11.0,0:0,0,0,0.7455,0.96,4.0
+01-04 12:30,iran pro league,fc nassaji mazandaran,foolad khuzestan fc,28.0,41.0,30.0,X2,3.05,2.44,2.7,0:2,0,2,0.854,1.0004,9.0
+01-04 12:35,india i-league,aizawl fc,gokulam kerala fc,18.0,24.0,58.0,2,3.4,3.45,1.91,1:2,1,2,0.612,0.828,33.64
+01-04 14:00,israel national league,agudat sport ashdod fc,bnei yehuda tel aviv fc,51.0,29.0,20.0,1X,2.37,2.85,2.95,3:1,3,1,1.2087,0.8265,4.0
+01-04 14:00,israel national league,hapoel umm al fahm,sektzia ness ziona fc,42.0,33.0,25.0,1X,2.95,2.9,2.34,1:2,1,2,1.239,0.957,6.25
+01-04 14:00,israel national league,hapoel acre fc,hapoel afula fc,25.0,47.0,27.0,X2,2.35,2.9,2.95,0:0,0,0,0.5875,1.363,7.29
+01-04 14:00,israel national league,hapoel rishon lezion fc,hapoel nir ramat hasharon fc,26.0,55.0,19.0,X,2.32,2.8,3.1,2:2,2,2,0.6032,1.54,3.61
+01-04 14:00,tanzania premier league,polisi tanzania fc,ruvu shooting fc,45.0,14.0,41.0,12,1.31,4.2,7.8,1:1,1,1,0.5895,0.588,16.81
+01-04 14:30,iran pro league,sanat naft abadan fc,foolad mobarakeh sepahan sc,29.0,32.0,39.0,none,5.8,2.65,1.76,2:4,2,4,1.682,0.848,15.21
+01-04 15:30,romania liga i,fc u craiova 1948,cs mioveni,61.0,23.0,16.0,1,2.17,2.7,3.75,1:1,1,1,1.3237,0.621,2.56
+01-04 15:35,india i-league,neroca fc,churchill brothers sc,31.0,41.0,27.0,1X,2.95,3.15,2.16,2:4,2,4,0.9145,1.2915,7.29
+01-04 16:00,slovakia superliga,msk zilina,mfk ruzomberok,60.0,19.0,22.0,1,2.31,3.3,2.8,0:2,0,2,1.386,0.627,4.84
+01-04 16:30,morocco botola 2,moghreb athletic de tetouan,raja beni mellal,30.0,55.0,15.0,X,1.99,2.75,3.95,2:1,2,1,0.597,1.5125,2.25
+01-04 17:00,poland ekstraklasa,fks stal mielec,mks cracovia krakow,38.0,31.0,31.0,none,3.2,3.1,2.28,1:2,1,2,1.216,0.961,9.61
+01-04 17:00,poland i liga,mks sandecja nowy sacz,korona kielce,23.0,43.0,34.0,X2,2.6,2.95,2.7,2:2,2,2,0.598,1.2685,11.56
+01-04 17:00,russia premier league,fk rubin kazan,fk khimki,50.0,25.0,25.0,1X,2.75,3.15,2.5,2:3,2,3,1.375,0.7875,6.25
+01-04 17:00,czech republic fnl,zbrojovka brno,1. fk pribram,46.0,25.0,30.0,12,1.42,4.2,6.2,1:0,1,0,0.6532,1.05,9.0
+01-04 17:00,czech republic fnl,sfc opava,fc vysocina jihlava,60.0,20.0,21.0,1,1.62,3.85,4.5,1:0,1,0,0.972,0.77,4.41
+01-04 17:00,lithuania 1 lyga,fk babrungas plunge,fk banga b,68.0,15.0,17.0,1,1.7,3.85,3.5,3:0,3,0,1.156,0.5775,2.89
+01-04 17:30,denmark 1st division,fc fredericia,hvidovre if,54.0,18.0,28.0,12,2.1,3.4,3.15,2:1,2,1,1.134,0.612,7.84
+01-04 17:30,germany 2nd bundesliga,dynamo dresden,schalke 04,26.0,19.0,55.0,2,4.2,3.75,1.78,1:2,1,2,1.092,0.7125,30.25
+01-04 17:30,germany 2nd bundesliga,fc ingolstadt 04,erzgebirge aue,33.0,42.0,25.0,1X,2.37,3.3,2.9,3:2,3,2,0.7821,1.386,6.25
+01-04 17:30,austria 2. liga,sv lafnitz,kapfenberger sv,55.0,14.0,32.0,1,1.4,4.5,6.8,3:2,3,2,0.77,0.63,10.24
+01-04 17:30,austria 2. liga,fc wacker innsbruck,fac wien,57.0,19.0,23.0,1,2.22,3.2,3.05,1:1,1,1,1.2654,0.608,5.29
+01-04 18:00,denmark superligaen,viborg ff,sonderjyske,55.0,27.0,18.0,1,1.72,3.55,4.7,2:1,2,1,0.946,0.9585,3.24
+01-04 18:00,germany 3rd liga,sv meppen,sv wehen wiesbaden,44.0,19.0,38.0,12,3.35,3.35,2.05,0:4,0,4,1.474,0.6365,14.44
+01-04 18:00,france national,fc chambly oise,lb chateauroux,42.0,28.0,31.0,12,3.7,3.1,2.0,0:2,0,2,1.554,0.868,9.61
+01-04 18:00,france national,annecy fc,us avranches,47.0,17.0,37.0,12,1.53,3.7,6.0,4:1,4,1,0.7191,0.629,13.69
+01-04 18:00,france national,us orleans,le mans fc,45.0,26.0,30.0,12,2.21,3.05,3.25,2:1,2,1,0.9945,0.793,9.0
+01-04 18:00,france national,fc bastia borgo,stade briochin,48.0,24.0,28.0,12,2.7,2.9,2.7,2:1,2,1,1.296,0.696,7.84
+01-04 18:00,france national,red star fc,us creteil-lusitanos,53.0,18.0,29.0,12,1.67,3.4,5.0,1:1,1,1,0.8851,0.612,8.41
+01-04 18:00,portugal segunda liga,leixoes sc,fc penafiel,41.0,42.0,17.0,1X,2.05,3.1,3.6,0:1,0,1,0.8405,1.302,2.89
+01-04 18:00,turkey tff 1. lig,tuzlaspor,umraniyespor,30.0,26.0,44.0,12,3.6,3.15,1.94,1:1,1,1,1.08,0.819,19.36
+01-04 18:00,germany amateur regionalliga north,vfb lübeck,vfb oldenburg,23.0,18.0,59.0,2,2.6,3.3,2.28,1:2,1,2,0.598,0.594,34.81
+01-04 18:00,austria amateur regionalliga centre,sc kalsdorf,sc weiz,33.0,16.0,51.0,12,1.84,3.65,3.3,2:1,2,1,0.6072,0.584,26.01
+01-04 18:30,romania liga i,afc chindia targoviste,fc dinamo bucharest 1948,51.0,27.0,21.0,1X,1.92,2.9,4.2,0:2,0,2,0.9792,0.783,4.41
+01-04 18:30,switzerland challenge league,fc schaffhausen,neuchatel xamax fcs,58.0,28.0,15.0,1,1.73,3.6,4.1,2:1,2,1,1.0034,1.008,2.25
+01-04 18:30,switzerland challenge league,yverdon-sport fc,fc vaduz,29.0,19.0,53.0,12,2.14,3.25,3.1,1:4,1,4,0.6206,0.6175,28.09
+01-04 18:30,germany amateur regionalliga west,rw essen,1. fc köln ii,44.0,13.0,43.0,12,1.4,4.6,6.4,2:0,2,0,0.616,0.598,18.49
+01-04 18:30,germany amateur oberliga nofv north,fc hertha 03 z.,sfc stern 1900,52.0,9.0,39.0,12,1.13,6.4,11.0,1:0,1,0,0.5876,0.576,15.21
+01-04 19:00,hungary nb i,mezokovesd zsory se,gyirmot fc gyor,31.0,19.0,49.0,12,1.91,3.05,3.7,1:0,1,0,0.5921,0.5795,24.01
+01-04 19:00,netherlands eerste divisie,helmond sport,mvv maastricht,31.0,28.0,41.0,12,1.95,3.65,3.3,1:2,1,2,0.6045,1.022,16.81
+01-04 19:00,netherlands eerste divisie,fc volendam,top oss,63.0,25.0,12.0,1,1.5,4.4,5.0,1:2,1,2,0.945,1.1,1.44
+01-04 19:00,netherlands eerste divisie,sc telstar,fc den bosch,35.0,25.0,40.0,12,1.76,3.75,3.95,1:2,1,2,0.616,0.9375,16.0
+01-04 19:00,netherlands eerste divisie,nac breda,jong ajax amsterdam,38.0,17.0,46.0,12,2.29,3.75,2.6,0:0,0,0,0.8702,0.6375,21.16
+01-04 19:00,netherlands eerste divisie,fc dordrecht,fc eindhoven,34.0,16.0,50.0,12,4.4,3.8,1.67,0:1,0,1,1.496,0.608,25.0
+01-04 19:00,netherlands eerste divisie,de graafschap,fc emmen,32.0,28.0,40.0,12,2.65,3.05,2.6,1:1,1,1,0.848,0.854,16.0
+01-04 19:00,netherlands eerste divisie,roda jc kerkrade,jong fc utrecht,58.0,14.0,28.0,1,1.23,5.8,9.2,2:1,2,1,0.7134,0.812,7.84
+01-04 19:00,netherlands eerste divisie,almere city fc,sbv excelsior,25.0,17.0,57.0,2,2.42,3.55,2.55,3:0,3,0,0.605,0.6035,32.49
+01-04 19:00,netherlands eerste divisie,vvv venlo,ado den haag,56.0,19.0,25.0,1,2.7,3.25,2.4,0:5,0,5,1.512,0.6175,6.25
+01-04 19:15,"peru primera division, apertura",sporting cristal,cdu san martin,48.0,18.0,34.0,12,1.26,5.2,8.2,4:1,4,1,0.6048,0.936,11.56
+01-04 19:25,austria 2. liga,grazer ak,fc blau-weiß linz,45.0,25.0,29.0,12,3.25,3.35,2.07,1:0,1,0,1.4625,0.8375,8.41
+01-04 19:30,germany bundesliga,fc union berlin,1. fc köln,46.0,29.0,26.0,1X,2.26,3.3,3.15,1:0,1,0,1.0396,0.957,6.76
+01-04 19:30,poland ekstraklasa,wks slask wroclaw,lech poznan,26.0,36.0,38.0,X2,5.2,3.75,1.63,0:1,0,1,1.352,1.35,14.44
+01-04 19:45,belgium pro league,k beerschot va,club brugge,23.0,14.0,64.0,2,10.0,5.6,1.25,1:3,1,3,2.3,0.784,40.96
+01-04 19:45,england championship,hull city,huddersfield town,27.0,33.0,40.0,X2,2.8,3.05,2.5,0:1,0,1,0.756,1.0065,16.0
+01-04 19:45,ireland premier division,dundalk fc,university college dublin,51.0,24.0,25.0,12,1.36,4.7,7.6,2:0,2,0,0.6936,1.128,6.25
+01-04 19:45,ireland premier division,saint patrick´s athletic,drogheda united,51.0,23.0,26.0,12,1.44,4.1,6.8,1:1,1,1,0.7344,0.943,6.76
+01-04 19:45,ireland premier division,bohemians dublin fc,derry city fc,38.0,32.0,30.0,none,2.65,3.0,2.75,1:2,1,2,1.007,0.96,9.0
+01-04 19:45,ireland premier division,sligo rovers fc,shelbourne fc,56.0,19.0,24.0,1,1.82,3.2,4.6,0:1,0,1,1.0192,0.608,5.76
+01-04 19:45,ireland first division,athlone town afc,bray wanderers,40.0,23.0,37.0,12,4.3,3.8,1.67,1:1,1,1,1.72,0.874,13.69
+01-04 19:45,ireland first division,galway united fc,cobh ramblers,41.0,31.0,27.0,1X,1.47,4.1,5.8,1:0,1,0,0.6027,1.271,7.29
+01-04 19:45,ireland first division,waterford fc,longford town fc,39.0,16.0,45.0,12,1.57,3.85,5.2,1:1,1,1,0.6123,0.616,20.25
+01-04 19:45,ireland first division,wexford fc,cork city fc,25.0,17.0,58.0,2,4.0,3.55,1.79,0:1,0,1,1.0,0.6035,33.64
+01-04 19:45,scotland championship,greenock morton fc,kilmarnock fc,16.0,19.0,64.0,2,3.75,3.15,1.97,1:1,1,1,0.6,0.5985,40.96
+01-04 19:45,scotland league two,edinburgh city fc,kelty hearts fc,32.0,16.0,53.0,12,5.2,3.9,1.57,1:1,1,1,1.664,0.624,28.09
+01-04 20:00,ireland premier division,finn harps fc,shamrock rovers,11.0,26.0,64.0,2,5.8,3.6,1.58,0:3,0,3,0.638,0.936,40.96
+01-04 20:00,spain segunda division,girona,malaga cf sad,51.0,22.0,27.0,12,1.54,3.8,6.0,1:0,1,0,0.7854,0.836,7.29
+01-04 20:15,portugal primeira liga,sporting braga,benfica lissabon,26.0,29.0,45.0,X2,3.15,3.4,2.18,3:2,3,2,0.819,0.986,20.25
+01-04 21:00,paraguay segunda division,deportivo santani,club fernando de la mora,23.0,49.0,28.0,X2,2.6,2.47,2.95,2:2,2,2,0.598,1.2103,7.84
+01-04 21:30,"peru primera division, apertura",ayacucho fc,utc de cajamarca,65.0,19.0,17.0,1,1.92,3.25,3.55,3:2,3,2,1.248,0.6175,2.89
